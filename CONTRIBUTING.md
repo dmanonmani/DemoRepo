@@ -1,2 +1,2 @@
-##two contributor mano
+##mano  one contributor
 twice
